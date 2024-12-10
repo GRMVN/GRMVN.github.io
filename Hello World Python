@@ -17,7 +17,7 @@
 	   <label for="total">Result:</label>
 	   <div name="total" id="total"></div>
    </form>
-   <py-scipt>
+   <py-script>
         input_box = Element("operandOne")
 	operandOne = float(input_box.value)
         result = Element("total")
